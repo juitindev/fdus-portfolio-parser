@@ -1,0 +1,250 @@
+{
+  "company_name": "InductiveHealth Informatics",
+  "website": "https://inductivehealth.com/",
+  "scraped_at": "2026-04-29T16:28:54.510877+00:00",
+  "pages": [
+    {
+      "url": "https://inductivehealth.com//",
+      "title": "Home - Inductive",
+      "type": "homepage",
+      "status_code": 200,
+      "clean_text": "Largest Public Health Data Platform\nStopping Disease Through Public Health Intelligence\nFor over a decade, we’ve delivered disease surveillance and syndromic solutions protecting millions of Americans. We’re proud to share that\nSSDataInfo\nand\nEnvision Technology\nhave joined\nInductiveHealth\n, strengthening our expertise across public health systems—including IIS through WebIZ.\nCONNECT WITH AN EXPERT\nTrusted Partners\nThe Integrated Advantage\nProven Community Protection\nAt Scale When It Matters Most\nWhen COVID-19 hit, public health agencies faced unprecedented challenges: onboard hundreds of new testing laboratories, process millions of test results, coordinate vaccination efforts, and monitor syndromic signals all simultaneously, all under emergency conditions.  Every point of COVID data you saw, we touched.\nThe integrated infrastructure that accelerated pandemic response now enables faster action across all public health threats from measles outbreaks, to wastewater, to foodborne illness investigations.\nhttps://www.inductivehealth.com/wp-content/uploads/2026/03/Inductive-Health-90.mp4\nDisease Surveillance - Syndromic Surveillance - Immunization Information\nOne Platform for Complete Public Health Readiness\nPublic health agencies have long managed disease surveillance, syndromic monitoring, and immunization systems separately. We bring them together enabling epidemiologist to investigate cases across all data streams, detect threats earlier, and protect communities faster. Build on a decade of CDC -standard implementation across 40+ state, local and territorial jurisdictions.\nA single integrated surveillance architecture through one vendor, all at a lower total cost of ownership\nUnify electronic disease surveillance systems, ESSENCE® syndromic monitoring, and immunization registries into a single platform. Investigate cases across multiple data streams without switching systems, while eliminating duplicate vendor relationships and redundant data entry. HL7 messaging, ELR, and eCR data flow through standardized interfaces, giving your epidemiology team the complete picture to detect, investigate, and respond to threats faster.\nRespond to outbreaks faster with standard-based disease surveillance\nManage notifiable disease investigations through our cloud-native InductiveHealth EDSS, CDC-developed NEDSS Base System (NBS), or open-source EpiTrax. Automate ELR ingestion, eCR processing, and MMG case notification to CDC, reducing manual data entry, allowing epidemiologist to focus on investigation rather than paperwork. Browser-based access means your public health team investigates cases from anywhere with secure authentication.\nSee Capabilities\nIdentify illness patterns and emergencies earlier through real-time syndromic surveillance\nDetect threats before laboratory confirmation by analyzing emergency department visits, urgent car encounters, and pharmacy data. Configure surveillance zones for your jurisdiction, monitor ILI and respiratory syndromes, and",
+      "structured": {}
+    },
+    {
+      "url": "https://inductivehealth.com//about-us/",
+      "title": "About Us - Inductive",
+      "type": "about",
+      "status_code": 200,
+      "clean_text": "About us\nLearn more about  InductiveHealth\nconnect with an expert\nWhat do we do\nLeader in public health disease surveillance\nSince our founding in 2013, InductiveHealth has become a leading provider in disease surveillance systems throughout the United States. Inductivehealth partners with Federal, State, Tribal, Local, and Territorial jurisdictions to deliver unique and scalable disease surveillance solutions to fit our clients needs and the ever changing public health landscape.\nOur vision and values\nOur vision is for our technology to positively impact over 1 million lives per year. Everyday, we are striving to accomplish this goal by living our values to the fullest:\nThink Differently\nSee the upside\nEarn trust\nAct with integrity\nDriven to succeed\nOur people\nWork with experts in public health\nThe InductiveHealth team consists of experienced epidemiologists and public health experts as well as trained engineers and technologists who all share a common goal: improve the public health industry through technology.\nEric Whitworth\nChief Executive Officer\nGary Lawrence\nChief Financial Officer\nGreg Smith\nChief Information Security Officer\nPam Knight-Schwartz\nVice President of Client Success\nCorey Cooper\nVice President of Client Operations\nGary Wheeler\nEnvision Executive Vice President and General Manager\nCareeers\nJoin the InductiveHealth mission\nAre you looking to work in a dynamic and cooperative setting that regards mutual respect, creativity and the exchanging of ideas and solutions? If this aligns with your goals, we would love to get to know you better. Check out InductiveHealth’s open positions below.\ncareer openings",
+      "structured": {
+        "leadership_count": 6
+      }
+    },
+    {
+      "url": "https://inductivehealth.com//inductivehealthedss/",
+      "title": "InductiveHealth EDSS - Inductive",
+      "type": "products",
+      "status_code": 200,
+      "clean_text": "Our Latest Disease Surveillance Technology\nInductiveHealth EDSS\nThe most scalable disease surveillance and general public health platform on the market, powered by Origami Risk.\nCloud-native technology that eliminates infrastructure burden, accelerates implementation, and gives epidemiologists the autonomy to adapt system configuration and reduce vendor dependency.\nElectronic Disease Surveillance Built On Proven Government Risk Technology Infrastructure\nEnterprise-Grade Security\nOrigami Risk’s layered security framework with role-based access, comprehensive audit logging, and MFA ensures HIPAA and FedRAMP compliance while protecting sensitive health data.\nAutonomous Configuration\nSelf-service admin tools enable epidemiologists to modify workflows, add custom fields, and deploy new forms without IT dependencies or vendor customization requests.\nSeamless Interoperability\nSecure API integrations, HL7 messaging, and real-time data exchange with laboratories, EHRs, and other healthcare systems eliminate manual data handling.\nTurn-Key Disease Surveillance That's Built Differently\nCloud-native architecture that minimizes overhead\nTrue multi-tenant SaaS on a scalable foundation, eliminates server procurement, database administration, and IT maintenance. Handle surge events without intervention, supported by the highest SLAs in the industry and backed by AWS and Azure enterprise infrastructure.\nAccess from anywhere. Investigate cases from any device.\nBuilt-in disaster recovery. Automated backups and disaster recovery capabilities ensure continuity during system disruptions.\nMore control for users with self-service configuration and improved team coordination\nA robust visual admin interface puts configuration control directly in epidemiologists’ hands. Create custom fields, modify workflows, and deploy new investigation forms in hours, and without the need for vendor development cycles or IT support.\nCoordinated task management, shared case access, and integrated email communication enable seamless team collaboration across investigation workflows with role-based access control\nOne system for data collection to decision-making\nBuilt-in analytics eliminate dependency on external BI tools or separate reporting databases. Epidemiologists configure dashboards with out-of-box available modules, including state-specific geo visualizations, heat maps, trend analysis, case lists, and task queues, all customizable for specific roles and surveillance properties.\nActionable, real-time data. Query live case management data, not yesterday’s data warehouse extract. Changes to case status, laboratory results, or outbreak associations appear instantly in dashboards.\nStratification at scale. Pre-configured views for STI programs, respiratory illness surveillance, ECR processing, and outbreak management. Create additional custom stratifications with minimal effort.\nReliable support infrastructure that’s ready for 24/7 outbreak response\nProviding the fastest implementation t",
+      "structured": {
+        "headings": [
+          "Enterprise-Grade Security",
+          "Autonomous Configuration",
+          "Seamless Interoperability",
+          "Turn-Key Disease Surveillance That's Built Differently",
+          "Cloud-native architecture that minimizes overhead",
+          "One system for data collection to decision-making",
+          "Reliable support infrastructure that’s ready for 24/7 outbreak response",
+          "InductiveHealth EDSS Capabilities",
+          "Comprehensive Case Management",
+          "Automated Data Integrations",
+          "Built-In Analytics",
+          "Integrated Outbreak Management",
+          "Accelerated Onboarding",
+          "Cross-Device Accessibility",
+          "Get In Touch",
+          "Company",
+          "Solutions"
+        ]
+      }
+    },
+    {
+      "url": "https://inductivehealth.com//epitrax/",
+      "title": "EpiTrax - Inductive",
+      "type": "products",
+      "status_code": 200,
+      "clean_text": "Solutions\nEpiTrax™\nA modern system for the most efficient, configurable, electronic disease surveillance solution provided in a commercial, open-source model that is NEDSS-compatible and meets CDC standards.\nA Highly Configurable Platform & Experienced Provider\nOpen Source Technology\nHighly configurable for integrations and custom requirements, and reduces the risk of vendor lock-in.\nThe Only Way To Use EMSA\nEnsure greater visibility and control over incoming electronic messages with an easy-to-use, fully configured Electronic Message Staging Area user interface.\nInnovative Technology\nGet up and running quickly with hosting support, AI-enhanced data migration services from any system, and initial configuration and setup.\nModern & Integrated Disease Surveillance\nMore than traditional Electronic Disease Surveillance Systems\nIncrease efficiencies for public health teams with better data entry and more features, such as outbreak management, contact tracing, case management, update forms without coding, and other new capabilities that traditional systems do not provide.\nStreamlined team & case management\nDashboards make it easy to manage cases through tasks and assignments with easy prioritization using condition, due dates, geographies, investigators, or other filters. Workflows enable collaboration and case flows across public health nurses, case investigators, and epidemiology teams.\nConfidential morbidity report (CMR) display\nEasily associate comorbidities with a condition, and include previous instances of the same condition or related conditions.\nConfigurable beyond standard investigations\nSupplemental forms are configurable across various populations, for scenarios such as follow-up interview protocols, drug treatment regimens, or contact tracing.",
+      "structured": {
+        "headings": [
+          "A Highly Configurable Platform & Experienced Provider",
+          "Open Source Technology",
+          "The Only Way To Use EMSA",
+          "Innovative Technology",
+          "Modern & Integrated Disease Surveillance",
+          "More than traditional Electronic Disease Surveillance Systems",
+          "Streamlined team & case management",
+          "Confidential morbidity report (CMR) display",
+          "Configurable beyond standard investigations",
+          "Get In Touch",
+          "Company",
+          "Solutions"
+        ]
+      }
+    },
+    {
+      "url": "https://inductivehealth.com//nbs/",
+      "title": "NBS - Inductive",
+      "type": "products",
+      "status_code": 200,
+      "clean_text": "Solutions\nNBS\nInductiveHealth is the premier implementer of the NEDSS Base System (NBS) with more than a dozen successful jurisdictional implementations.  For over 10 years, we have provided deployment, upgrades, support, and hosting of the NBS for state and territorial public health agencies.\nThe Government-Supported Standard of EDSS\nDecades of NBS Expertise\nOver a decade of NBS support and a key technology provider during the COVID-19 pandemic supporting efficient ELR processing, data migrations, and Page Builder expertise.\nNBS 7.0 & Data Modernization\nPartnered with the CDC to prepare for a future NBS vision and readying state jurisdictions for the upcoming version 7.0 upgrade to provide a seamless transition from legacy environments.\nThe CDC Standard Solution\nEnsuring departments are sending timely and accurate data to CDC via the latest notification standards including GenV2, condition-specific MMGs, NETSS, NEDSS, etc., while providing easier integration with AIMS Hub and other government reporing tools.\nThe Most Trusted Partner for NBS Solutions & Support\nSupporting More NBS Implementations Than Any Other Provider\nOur track record supporting NBS implementations spans more than a decade and more than two dozen NBS implementations.  We test each patch and release, using a proprietary upgrade path that mitigates performance issues and data loss.\nThe Foundation for Processing Electronic Data Ingestion\nIn addition to being the key tool in disease surveillance and case management, NBS is also foundational for ingesting and processing electronic lab reports (ELR) and electronic case reports (eCR).  We are experts in supporting these activities through our knowledge of Page Builder for form configuration, the database schema for data porting and ad-hoc reporting, and configuration of all systems to properly ingest and route electronic data to program staff.\nExpertise in Key Solutions Built to Enhance NBS\nWe bring a a deep experience in providing expanded SaaS services, including support of Rhapsody, FHIR, and Mirth.  Activities include resolving errors in integration engines, custom coding for ELR and eCR using both standard and non-standard reporting methods, developing custom Rhapsody routes and specialized processing, and integrating SQL and T-SQL application database structure.\nIntegration With Syndromic Data\nJurisdictions can unlock further surveillance capabilities by leveraging a proprietary approach that ties syndromic and disease surveillance together within a single Integrated Disease Surveillance System platform with custom NBS and ESSENCE capabilities.",
+      "structured": {
+        "headings": [
+          "The Government-Supported Standard of EDSS",
+          "Decades of NBS Expertise",
+          "NBS 7.0 & Data Modernization",
+          "The CDC Standard Solution",
+          "The Most Trusted Partner for NBS Solutions & Support",
+          "Supporting More NBS Implementations Than Any Other Provider",
+          "The Foundation for Processing Electronic Data Ingestion",
+          "Expertise in Key Solutions Built to Enhance NBS",
+          "Integration With Syndromic Data",
+          "Get In Touch",
+          "Company",
+          "Solutions"
+        ]
+      }
+    },
+    {
+      "url": "https://inductivehealth.com//webiz/",
+      "title": "WebIZ™ - Inductive",
+      "type": "products",
+      "status_code": 200,
+      "clean_text": "Immunization Information Systems\nEnvision WebIZ™\nNow part of InductiveHealth’s unified public health platform, WebIZ™ brings together 20+ years of immunization registry excellence with leading disease and syndromic surveillance capabilities.\nAs the nation’s most widely deployed immunization information system provider for state and local government public health agencies, and largest contributor to CDC’s IZGateway, WebIZ™ is designed to meet CDC standards for effective tracking and administration of immunizations across any jurisdiction.\nDesigned for Every Level of Immunization Management\nVaccine Program Operations\nKeep vaccines safe, available, and properly managed with real-time inventory tracking, VTrckS automated federal ordering, and temperature monitoring with configurable alerts.\nImmunization Registry\nDocument, track, and share lifetime immunization records via CDC clinical decision support, bidirectional HL7 integration with EHRs, and IZ Gateway for nationwide data exchange.\nCoverage Assessment & Compliance\nMeasure population immunity and ensure regulatory compliance with embedded analytics dashboards, school certificate compliance, and automated federal reporting.\nOne Platform For All Immunization Programs\nInfrastructure that scales from routine clinics to mass vaccinations\nBuilt on Microsoft .NET and SQL Server with flexible deployment options on Azure Government Cloud for scalable managed hosting. Browser-based access from anywhere, whether it’s a clinic, mobile van, or school nurse laptop.\nHighly configurable to meet jurisdiction-specific immunization requirements\nCommercial off-the-shelf (COTS) platform with configurable modules for standard and special programs management, including perinatal Hepatitis B, VFC/317 coordination, and state-specific requirements.\nWebIZ provides admin tools that put control in public health hands, allowing users to toggle system parameters such as adding new vaccine products through code tables when CDC approves them, or updating school certificate rules when state law changes.\nRobust Analytics that can identify under-vaccinated populations before outbreaks happen\nEmbedded Power BI dashboards show coverage rates by ZIP code, vaccine type, age group, and provider, with no custom development required. Public health officials target interventions to specific geographic and demographic gaps, while clinic managers identify patients due this week.\nNear real-time visibility with rapid dashboard updates. Vaccines administered through HL7-integrated providers appear in analytics quickly, minimizing delays for coverage assessment and outbreak response.\nLive operational data and preset filters to quickly access trends and patient records. Find age groups due for particular vaccines in just a few clicks.\nCommunity Development Model That Accelerates Immunization Program Improvements\nOver 20 years serving 20+ jurisdictions means proven implementation patterns for VFC workflows, perinatal Hepatitis B tracking, and comp",
+      "structured": {
+        "headings": [
+          "Designed for Every Level of Immunization Management",
+          "Vaccine Program Operations",
+          "Immunization Registry",
+          "Coverage Assessment & Compliance",
+          "One Platform For All Immunization Programs",
+          "Infrastructure that scales from routine clinics to mass vaccinations",
+          "Highly configurable to meet jurisdiction-specific immunization requirements",
+          "Community Development Model That Accelerates Immunization Program Improvements",
+          "Envision WebIZ™ Capabilities",
+          "Streamlined Clinic Workflows",
+          "Advanced Inventory Control",
+          "Robust Coverage Analytics",
+          "School Compliance Management",
+          "HL7 & EHR Integration",
+          "Citizen Self-Service Portal",
+          "Get In Touch",
+          "Company",
+          "Solutions"
+        ]
+      }
+    },
+    {
+      "url": "https://inductivehealth.com//essence/",
+      "title": "ESSENCE - Inductive",
+      "type": "products",
+      "status_code": 200,
+      "clean_text": "Solutions\nSyndromic Surveillance powered by ESSENCE®\nIn 2021, InductiveHealth became the sole commercial provider of Johns Hopkins University Applied Physics Laboratory’s premier health surveillance innovation known as ESSENCE. Electronic Surveillance System for the Early Notification of Community-based Epidemics (ESSENCE) is the leading solution for capturing and analyzing health-indicator data to identify abnormal health conditions and enable early detection and monitoring of events of public health importance.\nInductiveHealth for Syndromic Surveillance\nJohns Hopkins University Applied Physics Laboratory Relationship\nIn 2021, InductiveHealth became the sole commercial provider of Johns Hopkins University Applied Physics Laboratory’s premier health surveillance innovation known as ESSENCE.\nSyndromic Surveillance Expertise\nWork with our experienced public health staff who combined have more than 30+ years of previous ESSENCE and syndromic surveillance experience. Our staff will work to understand your goals and customize ESSENCE to fit those needs.\nAccess Timely Data\nAccess InductiveHealth’s experienced team of Syndromic Surveillance subject matter experts to stay up-to-date with the latest data and identify unusual illness patterns giving you the ability to respond swiftly to public health emergencies.\nEnhanced Syndromic Surveillance\nIntegrate With Electronic Disease Surveillance\nWith an InductiveHealth’s integrated disease surveillance system (IDSS) implementation, unlock enhanced capabilities by integrating with disease surveillance platforms such as NBS or EpiTrax™ to cross-reference datasets, and access both systems from a single secure environment with real-time multi-user collaboration fortified with MFA and HIPAA-compliant standards.\nSystem Flexibility to Control Your Data\nA local instance of ESSENCE allows jurisdictions to scale and tailor ESSENCE offerings based on the jurisdiction’s needs, control what data feeds are onboarded, and integrate additional data sources.\nMore Syndromic Data Integration and Analysis\nIngest additional data sets not available with other solutions, including: ED, urgent care, inpatient, hospital discharge, air quality, weather, death, reportable conditions, school absentee, EMS, poison control, OTC drug sales, ASPR, DMAT, lab, hospital bed availability and more.\nCustomized and Targeted Surveillance\nEnable more accurate and targeted surveillance crucial for localized health monitoring and response by defining geographies to the district and neighborhood level. Expand tracked geographies across jurisdiction borders and automate alerts for custom geographies to pinpoint areas and populations that require immediate attention.\nInductiveHealth Success Stories\nHow ESSENCE® and Data Visualization Help Houston Track Extreme Heat Related Illnesses\nLearn More",
+      "structured": {
+        "headings": [
+          "InductiveHealth for Syndromic Surveillance",
+          "Johns Hopkins University Applied Physics Laboratory Relationship",
+          "Syndromic Surveillance Expertise",
+          "Access Timely Data",
+          "Enhanced Syndromic Surveillance",
+          "Integrate With Electronic Disease Surveillance",
+          "System Flexibility to Control Your Data",
+          "More Syndromic Data Integration and Analysis",
+          "Customized and Targeted Surveillance",
+          "InductiveHealth Success Stories",
+          "Get In Touch",
+          "Company",
+          "Solutions"
+        ]
+      }
+    }
+  ],
+  "leadership": [
+    {
+      "name": "Eric Whitworth",
+      "title": "Chief Executive Officer",
+      "bio": ""
+    },
+    {
+      "name": "Gary Lawrence",
+      "title": "Chief Financial Officer",
+      "bio": ""
+    },
+    {
+      "name": "Greg Smith",
+      "title": "Chief Information Security Officer",
+      "bio": ""
+    },
+    {
+      "name": "Pam Knight-Schwartz",
+      "title": "Vice President of Client Success",
+      "bio": ""
+    },
+    {
+      "name": "Corey Cooper",
+      "title": "Vice President of Client Operations",
+      "bio": ""
+    },
+    {
+      "name": "Gary Wheeler",
+      "title": "Envision Executive Vice President and General Manager",
+      "bio": ""
+    }
+  ],
+  "company_overview": {
+    "what_they_do": "",
+    "target_customers": "",
+    "products": [
+      "Enterprise-Grade Security",
+      "Autonomous Configuration",
+      "Seamless Interoperability",
+      "Turn-Key Disease Surveillance That's Built Differently",
+      "Cloud-native architecture that minimizes overhead",
+      "One system for data collection to decision-making",
+      "Reliable support infrastructure that’s ready for 24/7 outbreak response",
+      "InductiveHealth EDSS Capabilities",
+      "Comprehensive Case Management",
+      "Automated Data Integrations",
+      "Built-In Analytics",
+      "Integrated Outbreak Management",
+      "Accelerated Onboarding",
+      "Cross-Device Accessibility",
+      "Get In Touch",
+      "Company",
+      "Solutions",
+      "A Highly Configurable Platform & Experienced Provider",
+      "Open Source Technology",
+      "The Only Way To Use EMSA",
+      "Innovative Technology",
+      "Modern & Integrated Disease Surveillance",
+      "More than traditional Electronic Disease Surveillance Systems",
+      "Streamlined team & case management",
+      "Confidential morbidity report (CMR) display",
+      "Configurable beyond standard investigations",
+      "The Government-Supported Standard of EDSS",
+      "Decades of NBS Expertise",
+      "NBS 7.0 & Data Modernization",
+      "The CDC Standard Solution",
+      "The Most Trusted Partner for NBS Solutions & Support",
+      "Supporting More NBS Implementations Than Any Other Provider",
+      "The Foundation for Processing Electronic Data Ingestion",
+      "Expertise in Key Solutions Built to Enhance NBS",
+      "Integration With Syndromic Data",
+      "Designed for Every Level of Immunization Management",
+      "Vaccine Program Operations",
+      "Immunization Registry",
+      "Coverage Assessment & Compliance",
+      "One Platform For All Immunization Programs",
+      "Infrastructure that scales from routine clinics to mass vaccinations",
+      "Highly configurable to meet jurisdiction-specific immunization requirements",
+      "Community Development Model That Accelerates Immunization Program Improvements",
+      "Envision WebIZ™ Capabilities",
+      "Streamlined Clinic Workflows",
+      "Advanced Inventory Control",
+      "Robust Coverage Analytics",
+      "School Compliance Management",
+      "HL7 & EHR Integration",
+      "Citizen Self-Service Portal",
+      "InductiveHealth for Syndromic Surveillance",
+      "Johns Hopkins University Applied Physics Laboratory Relationship",
+      "Syndromic Surveillance Expertise",
+      "Access Timely Data",
+      "Enhanced Syndromic Surveillance",
+      "Integrate With Electronic Disease Surveillance",
+      "System Flexibility to Control Your Data",
+      "More Syndromic Data Integration and Analysis",
+      "Customized and Targeted Surveillance",
+      "InductiveHealth Success Stories"
+    ]
+  }
+}

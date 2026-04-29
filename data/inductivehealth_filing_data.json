@@ -1,0 +1,90 @@
+{
+  "company_name": "InductiveHealth Informatics, LLC",
+  "schedule_rows": [
+    {
+      "company_name": "InductiveHealth Informatics, LLC",
+      "industry": "Healthcare Services",
+      "investment_category": "Non-control/Non-affiliate",
+      "investment_type": "First Lien Debt",
+      "rate_spread_floor": "(S+7.75%) / (2.00%)",
+      "rate_cash_pik": "11.71%/0.50%",
+      "investment_date": "9/20/2024",
+      "maturity_date": "9/20/2028",
+      "principal_amount": "35065",
+      "cost": "34775",
+      "fair_value": "35065"
+    },
+    {
+      "company_name": "InductiveHealth Informatics, LLC",
+      "industry": "Healthcare Services",
+      "investment_category": "Non-control/Non-affiliate",
+      "investment_type": "First Lien Debt",
+      "rate_spread_floor": "(S+7.75%) / (2.00%)",
+      "rate_cash_pik": "11.71%/0.50%",
+      "investment_date": "12/16/2025",
+      "maturity_date": "9/20/2028",
+      "principal_amount": "2993",
+      "cost": "2964",
+      "fair_value": "2994"
+    },
+    {
+      "company_name": "InductiveHealth Informatics, LLC",
+      "industry": "Healthcare Services",
+      "investment_category": "Non-control/Non-affiliate",
+      "investment_type": "Preferred Equity",
+      "rate_spread_floor": null,
+      "rate_cash_pik": null,
+      "investment_date": "9/20/2024",
+      "maturity_date": null,
+      "principal_amount": null,
+      "cost": "292",
+      "fair_value": "330"
+    },
+    {
+      "company_name": "InductiveHealth Informatics, LLC",
+      "industry": "Healthcare Services",
+      "investment_category": "Non-control/Non-affiliate",
+      "investment_type": "Common Equity",
+      "rate_spread_floor": null,
+      "rate_cash_pik": null,
+      "investment_date": "9/20/2024",
+      "maturity_date": null,
+      "principal_amount": null,
+      "cost": null,
+      "fair_value": null
+    }
+  ],
+  "summary": {
+    "total_fair_value_usd_thousands": 38389.0,
+    "total_cost_usd_thousands": 38031.0,
+    "num_investments": 4,
+    "investment_types": [
+      "Common Equity",
+      "First Lien Debt",
+      "Preferred Equity"
+    ],
+    "category": "Non-control/Non-affiliate"
+  },
+  "other_filing_mentions": [
+    {
+      "position": 133223,
+      "likely_section": "affiliate_transactions",
+      "snippet": "(dba MCIM) Information Technology Services Common Equity (551,470 units) Investment date 5/20/2024 2025-12-31 0001513363 fdus:HealthcareServicesMember us-gaap:InvestmentUnaffiliatedIssuerMember fdus:InductiveHealthInformaticsLLCMember 2024-12-31 0001513363 fdus:SecuredBorrowingsMember 2025-01-01 2025-12-31 0001513363 Non-control/Non-affiliate Investments AmeriWater, LLC Component Manufacturing Common Equity (1,"
+    },
+    {
+      "position": 229904,
+      "likely_section": "affiliate_transactions",
+      "snippet": "fLiquidityMember 2025-01-01 2025-12-31 0001513363 fdus:MayeshWholesaleFloristLLCFirstLienDebtMember 2025-12-31 0001513363 fdus:HealthcareServicesMember us-gaap:InvestmentUnaffiliatedIssuerMember fdus:InductiveHealthInformaticsLLCMember 2025-12-31 0001513363 fdus:FishbowlSolutionsLLCRevolvingLoanMember 2025-12-31 0001513363 Non-control/Non-affiliate Investments OnePath Systems, LLC Information Technology Services"
+    },
+    {
+      "position": 741163,
+      "likely_section": "unknown",
+      "snippet": "units) 8/7/2023 102 134 Preferred Equity ( 868 units) 10/16/2020 154 363 25,203 26,842 4 % IBH Holdings, LLC (fka Inflexxion, Inc.) Business Services Common Equity ( 150,000 units) 6/20/2018 — — 0 % InductiveHealth Informatics, LLC Healthcare Services First Lien Debt (j) ( S + 7.75 %) / ( 2.00 %) 11.71 %/ 0.50 % 9/20/2024 9/20/2028 35,065 34,775 35,065 First Lien Debt ( S + 7.75 %) / ( 2.00 %) 11.71 %/ 0.50 % 1"
+    },
+    {
+      "position": 792448,
+      "likely_section": "unknown",
+      "snippet": "8/7/2023 24 147 Preferred Equity ( 868 units) (j) 10/16/2020 154 341 24,740 26,642 4 % IBH Holdings, LLC (fka Inflexxion, Inc.) Business Services Common Equity ( 150,000 units) (j) 6/20/2018 — — 0 % InductiveHealth Informatics, LLC Healthcare Services First Lien Debt (j) ( S + 7.75 %) / ( 2.00 %) 12.44 %/ 0.50 % 9/20/2024 9/20/2028 20,029 19,819 19,819 Preferred Equity ( 367 units) (j) 9/20/2024 367 367 Common"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "company_name": "InductiveHealth Informatics",
+  "source_url": "https://inductivehealth.com/about-us/",
+  "scraped_at": "2026-04-29T16:28:54.510877+00:00",
+  "executives": [
+    {
+      "rank": 1,
+      "name": "Eric Whitworth",
+      "title": "Chief Executive Officer",
+      "source_url": "https://inductivehealth.com/about-us/",
+      "linkedin_status": "deferred_tos_compliance",
+      "linkedin_notes": "LinkedIn profile scraping deferred per client discussion — ToS compliance consideration. Alternative compliant enrichment available via Apollo.io / Crunchbase if scoped.",
+      "notes": ""
+    },
+    {
+      "rank": 2,
+      "name": "Gary Lawrence",
+      "title": "Chief Financial Officer",
+      "source_url": "https://inductivehealth.com/about-us/",
+      "linkedin_status": "deferred_tos_compliance",
+      "linkedin_notes": "LinkedIn profile scraping deferred per client discussion — ToS compliance consideration. Alternative compliant enrichment available via Apollo.io / Crunchbase if scoped.",
+      "notes": ""
+    },
+    {
+      "rank": 3,
+      "name": "Greg Smith",
+      "title": "Chief Information Security Officer",
+      "source_url": "https://inductivehealth.com/about-us/",
+      "linkedin_status": "deferred_tos_compliance",
+      "linkedin_notes": "LinkedIn profile scraping deferred per client discussion — ToS compliance consideration. Alternative compliant enrichment available via Apollo.io / Crunchbase if scoped.",
+      "notes": ""
+    }
+  ]
+}

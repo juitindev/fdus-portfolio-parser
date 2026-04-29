@@ -1,0 +1,11 @@
+rank,company_name,industry,investment_category,total_fair_value,total_cost,num_investments,investment_types
+1,"Pfanstiehl, Inc.",Healthcare Products,Affiliate,40995.0,255.0,1,Common Equity
+2,"InductiveHealth Informatics, LLC",Healthcare Services,Non-control/Non-affiliate,38389.0,38031.0,4,Common Equity; First Lien Debt; Preferred Equity
+3,"Fishbowl Solutions, LLC",Information Technology Services,Non-control/Non-affiliate,35063.0,34995.0,3,First Lien Debt; Revolving Loan
+4,American AllWaste LLC (dba WasteWater Transport Services),Environmental Industries,Non-control/Non-affiliate,33944.0,29768.0,10,Common Equity; First Lien Debt; Preferred Equity
+5,"GMP HVAC, LLC (dba McGee Heating & Air, LLC)",Utilities: Services,Non-control/Non-affiliate,31350.0,30652.0,2,First Lien Debt; Preferred Equity
+6,"Spectra A&D Acquisition, Inc.",Aerospace & Defense Manufacturing,Affiliate,31197.0,35538.0,6,Common Equity; First Lien Debt
+7,"Detechtion Holdings, LLC",Information Technology Services,Non-control/Non-affiliate,31061.0,31069.0,4,Common Equity; First Lien Debt; Revolving Loan; Subordinated Debt
+8,"Barefoot Mosquito and Pest Control, LLC",Consumer Services,Non-control/Non-affiliate,30913.0,33807.0,4,Common Equity; First Lien Debt; Preferred Equity
+9,"ServicePower, Inc.",Information Technology Services,Non-control/Non-affiliate,30038.0,29831.0,2,First Lien Debt
+10,"Dealerbuilt Acquisition, LLC",Information Technology Services,Non-control/Non-affiliate,27310.0,27234.0,4,Common Equity; First Lien Debt; Preferred Equity; Subordinated Debt
